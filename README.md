@@ -1,4 +1,4 @@
-# FOSCharlie's Arcane Repo
+# FOSSCharlie's Arcane Repo
 
 My personal repo templates for [Arcane](https://getarcane.app).
 
