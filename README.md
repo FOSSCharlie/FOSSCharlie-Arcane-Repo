@@ -1,6 +1,7 @@
 # FOSSCharlie's Arcane Repo
 
-My personal repo of templates for [Arcane](https://getarcane.app).
+My personal repo of templates for [Arcane](https://getarcane.app). 
+(Started on 14 July 2026).
 
 ## Registry URL
 
