@@ -1,0 +1,23 @@
+x-arcane:
+  icon: https://cdn.jsdelivr.net/gh/selfhst/icons@main/webp/anchor-notes.webp
+  urls:
+    - https://github.com/zhfahim/anchor
+
+services:
+  anchor-notes:
+    image: ghcr.io/zhfahim/anchor:latest
+    container_name: anchor-notes
+    restart: unless-stopped
+    labels:
+      com.getarcaneapp.arcane.icon: https://cdn.jsdelivr.net/gh/selfhst/icons@main/webp/anchor-notes.webp
+    environment:
+      APP_URL: ${URL}
+      JWT_SECRET: ${SECRET}
+      PG_USER: ${DBUSER}
+      PG_PASSWORD: ${DBPASSWORD}
+      PG_DATABASE: ${DBNAME}
+      USER_SIGNUP: ${SIGNUP}
+    ports:
+      - "${PORT}:3000"
+    volumes:
+      - ${APP_PATH}:/data
