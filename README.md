@@ -1,6 +1,6 @@
 # FOSSCharlie's Arcane Repo
 
-My personal repo templates for [Arcane](https://getarcane.app).
+My personal repo of templates for [Arcane](https://getarcane.app).
 
 ## Registry URL
 
