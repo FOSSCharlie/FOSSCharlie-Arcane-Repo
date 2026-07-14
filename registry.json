@@ -12,8 +12,8 @@
       "description": "Offline-first, self-hostable note-taking app with rich text editing, tags, sharing, and sync",
       "version": "1.0.0",
       "author": "FOSSCharlie",
-      "compose_url": "https://raw.githubusercontent.com/FOSSCharlie/FOSSCharlie-Arcane-Repo/main/anchor-notes/docker-compose.yml",
-      "env_url": "https://raw.githubusercontent.com/FOSSCharlie/FOSSCharlie-Arcane-Repo/main/anchor-notes/.env",
+      "compose_url": "https://raw.githubusercontent.com/FOSSCharlie/fosscharlie-arcane-repo/main/anchor-notes/compose.yml",
+      "env_url": "https://raw.githubusercontent.com/FOSSCharlie/fosscharlie-arcane-repo/main/anchor-notes/.env.example",
       "documentation_url": "https://github.com/zhfahim/anchor",
       "tags": ["notes", "productivity", "postgres"]
     }
