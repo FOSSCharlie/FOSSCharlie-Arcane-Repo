@@ -1,6 +1,6 @@
 # FOSCharlie's Arcane Repo
 
-My personal repo Docker Compose templates for [Arcane](https://getarcane.app).
+My personal repo templates for [Arcane](https://getarcane.app).
 
 ## Registry URL
 
@@ -8,4 +8,4 @@ My personal repo Docker Compose templates for [Arcane](https://getarcane.app).
 https://github.com/FOSSCharlie/FOSSCharlie-Arcane-Repo/blob/main/registry.json
 ```
 
-**DO NOT USE YET - IT'S NOT READY FOR PRIME TIME !!!!!**
+## **DO NOT USE YET - IT'S NOT READY FOR PRIME TIME !!!!!**
