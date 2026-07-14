@@ -5,7 +5,7 @@ My personal repo of templates for [Arcane](https://getarcane.app).
 ## Registry URL
 
 ```text
-https://github.com/FOSSCharlie/FOSSCharlie-Arcane-Repo/blob/main/registry.json
+xxxo
 ```
 
 ## **DO NOT USE YET - IT'S NOT READY FOR PRIME TIME !!!!!**
