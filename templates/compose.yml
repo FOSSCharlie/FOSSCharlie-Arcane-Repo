@@ -13,9 +13,9 @@ services:
     environment:
       APP_URL: ${URL}
       JWT_SECRET: ${SECRET}
-      PG_USER: ${USER}
-      PG_PASSWORD: ${PASSWORD}
-      PG_DATABASE: ${DATABASE}
+      PG_USER: ${DBUSER}
+      PG_PASSWORD: ${DBPASSWORD}
+      PG_DATABASE: ${DBNAME}
       USER_SIGNUP: ${SIGNUP}
     ports:
       - "${PORT}:3000"
