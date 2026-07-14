@@ -1,1 +1,21 @@
-Coming soon
+{
+  "$schema": "https://github.com/getarcaneapp/arcane-templates/schema.json",
+  "name": "FOSSCharlie's Arcane Repo",
+  "description": "My personal repo of templates for Arcane",
+  "version": "1.0.0",
+  "author": "FOSSCharlie",
+  "url": "https://github.com/FOSSCharlie/FOSSCharlie-Arcane-Repo",
+  "templates": [
+    {
+      "id": "anchor-notes",
+      "name": "Anchor Notes",
+      "description": "Offline-first, self-hostable note-taking app with rich text editing, tags, sharing, and sync",
+      "version": "1.0.0",
+      "author": "FOSSCharlie",
+      "compose_url": "https://raw.githubusercontent.com/FOSSCharlie/FOSSCharlie-Arcane-Repo/main/anchor-notes/docker-compose.yml",
+      "env_url": "https://raw.githubusercontent.com/FOSSCharlie/FOSSCharlie-Arcane-Repo/main/anchor-notes/.env",
+      "documentation_url": "https://github.com/zhfahim/anchor",
+      "tags": ["notes", "productivity", "postgres"]
+    }
+  ]
+}
