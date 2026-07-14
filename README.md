@@ -8,4 +8,6 @@ My personal repo of templates for [Arcane](https://getarcane.app).
 https://fosscharlie.github.io/fosscharlie-arcane-repo/registry.json
 ```
 
-## **DO NOT USE YET - IT'S NOT READY FOR PRIME TIME !!!!!**
+| App | Description |
+| :--- | :--- |
+| **anchor** | A lightweight, self-hosted markdown note-taking app. |
