@@ -4,7 +4,7 @@
   "description": "My personal repo of templates for Arcane",
   "version": "1.0.0",
   "author": "FOSSCharlie",
-  "url": "https://github.com/FOSSCharlie/FOSSCharlie-Arcane-Repo",
+  "url": "https://github.com/FOSSCharlie/fosscharlie-arcane-repo",
   "templates": [
     {
       "id": "anchor-notes",
